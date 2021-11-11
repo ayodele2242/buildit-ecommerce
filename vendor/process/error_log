@@ -1,0 +1,6 @@
+[30-Jan-2021 17:28:49 UTC] PHP Notice:  Undefined index: upload_files in /home/buildit2/public_html/vendor/process/add_product.php on line 229
+[30-Jan-2021 17:28:52 UTC] PHP Notice:  Undefined index: upload_files in /home/buildit2/public_html/vendor/process/add_product.php on line 229
+[30-Jan-2021 18:07:24 UTC] PHP Notice:  Undefined index: pro_id in /home/buildit2/public_html/vendor/process/product_update.php on line 59
+[30-Jan-2021 18:08:42 UTC] PHP Notice:  Undefined index: pro_id in /home/buildit2/public_html/vendor/process/product_update.php on line 59
+[30-Jan-2021 18:10:05 UTC] PHP Notice:  Undefined index: pro_id in /home/buildit2/public_html/vendor/process/product_update.php on line 59
+[01-Feb-2021 11:53:43 UTC] PHP Notice:  Undefined index: pro_id in /home/buildit2/public_html/vendor/process/product_update.php on line 59

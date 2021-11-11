@@ -1,0 +1,72 @@
+{
+  "name": "Buildit",
+  "short_name": "Buildit",
+  "start_url": "https://buildit.com.ng/",
+  "display": "standalone",
+  "background_color": "#0134d4",
+  "theme_color": "#0134d4",
+  "categories": ["mobile", "multivendow", "store", "ecommerce", "pwa"],
+  "orientation": "portrait",
+  "description": "Buildit - No. 1 online store for anything home and office",
+  "icons": [{
+      "src": "img/icons/icon.png",
+      "type": "image/png",
+      "sizes": "72x72",
+      "purpose": "buildit"
+    },
+    {
+      "src": "assets/img/buildit.png",
+      "type": "image/png",
+      "sizes": "96x96",
+      "purpose": "buildit"
+    },
+    {
+      "src": "assets/img/buildit.png",
+      "type": "image/png",
+      "sizes": "128x128",
+      "purpose": "buildit"
+    },
+    {
+      "src": "assets/img/buildit.png",
+      "type": "image/png",
+      "sizes": "144x144",
+      "purpose": "buildit"
+    },
+    {
+      "src": "assets/img/buildit.png",
+      "type": "image/png",
+      "sizes": "152x152",
+      "purpose": "buildit"
+    },
+    {
+      "src": "assets/img/buildit.png",
+      "type": "image/png",
+      "sizes": "167x167",
+      "purpose": "buildit"
+    },
+    {
+      "src": "assets/img/buildit.png",
+      "type": "image/png",
+      "sizes": "180x180",
+      "purpose": "buildit"
+    },
+    {
+      "src": "assets/img/buildit.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "buildit"
+    },
+    {
+      "src": "assets/img/buildit.png",
+      "type": "image/png",
+      "sizes": "384x384",
+      "purpose": "buildit"
+    },
+    {
+      "src": "assets/img/buildit.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "buildit"
+    }
+  ]
+}

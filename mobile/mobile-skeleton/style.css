@@ -1,0 +1,279 @@
+/***************************************************  Mobile  ***************************************************************************/
+
+
+
+@media (max-width: 1000px) {
+
+body {
+    font-family: 'Poppins', sans-serif;
+    /*font-family: proxima-nova,system,-apple-system,BlinkMacSystemFont,Helvetica Neue,sans-serif;*/
+    font-size: 16px;
+}
+
+.mobile-nav {
+
+   
+}
+
+.nav-ops {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.phone {
+    height: 48px;
+    display: flex;
+    align-items: center;
+    padding: 0px 16px;
+    justify-content: flex-end;
+    margin-bottom: 16px; 
+}
+
+.icons {
+    margin-top: -16px;
+}
+
+.time {
+    font-family: Roboto;
+    font-size: 14px;
+    margin-top: -16px;
+
+}
+
+.input {
+    height: 32px;
+    width: 64vw;
+    margin-left: 16px;
+    margin-right: 16px;
+    border-radius: 4px;
+    background-color: #fff;
+}
+
+.square {
+    width: 32px;
+    height: 32px;
+    background-color: #D8D8D8;
+    border-radius: 10%;
+}
+
+.circle {
+    width: 32px;
+    height: 32px;
+    background-color: #D8D8D8;
+    border-radius: 100%;
+
+}
+
+.slat {
+    height: 32px;
+    width: 64vw;
+    background-color: #D8D8D8;
+    border-radius: 2px;
+    margin-bottom: 8px;
+}
+
+.short {
+    width: 32vw;
+}
+
+
+.img {
+    height: 12vh;
+    width: 40vw;
+    background-color: #EEEEEE;
+    margin-bottom: 8px;
+    border-radius: 4px;
+}
+
+.lrg {
+    width: 56vw;
+    height: 16vh;
+}
+
+.button {
+    height: 32px;
+    width: 8vw;
+    background-color: #D8D8D8;
+    border-radius: 4px;
+    margin-top: 16px;
+}
+
+.mini {
+    width: 32vw;
+    height: 20px;
+}
+
+.lng {
+    width: 48vw;
+}
+
+.small {
+    width: 16vw;
+}
+
+.head-group {
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: row;
+    align-items: center;
+    margin-bottom: 16px;
+    margin-top: 8px;
+}
+
+.column {
+    margin-left: 16px;
+}
+
+.skeleton-whole {
+    padding: 16px;
+    margin-top: 18vh;
+    left: 0;
+}
+
+.loader-div {
+    display: flex;
+    /*justify-content: center;*/
+    align-items: center;
+    height: 100vh;
+    flex-direction: column;
+}
+
+.horizontal {
+    overflow-x: scroll;
+    overflow-y: hidden;
+    white-space: nowrap;
+}
+
+.horizontal::-webkit-scrollbar { 
+    display: none; 
+} 
+
+.pair {
+    margin-left: 16px;
+    display: inline-block;
+    margin-top: 8px;
+    margin-bottom: 24px;
+}
+
+.no {
+    margin-left: 0px;
+}
+
+
+
+.footer {
+    position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100vw;
+   background-color: #F8F8F8;
+   height: 8vh;
+   display: flex;
+   flex-wrap: nowrap;
+   justify-content: center;
+   box-shadow: 0px 2px 20px rgba(0, 0, 0, 0.15);
+}
+
+.footer-thumbs {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.foot {
+    height: 8px;
+    width: 8vw;
+    background-color: #D8D8D8;
+    border-radius: 2px;
+    margin-top: 8px;
+}
+
+.divide {
+    height: 48px;
+    width: 88vw;
+    border: 1px solid #D8D8D8;
+    border-radius: 4px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.in-divide {
+    height: 16px;
+    width: 24vw;
+    background-color: #D8D8D8;
+    border-radius: 2px;
+}
+
+.last {
+    margin-bottom: 4vh;
+}
+
+.wrapper {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 40px;
+}
+
+.single {
+    height: 16vh;
+    width: 88vw;
+}
+
+.grey-box {
+    background-color: #EEEEEE;
+    padding: 16px;
+    height: 40vh;
+    margin-bottom: 24px;
+    margin-top: 16px;
+    border-radius: 4px;
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: column;
+}
+
+.bottom {
+    display: flex;
+    margin-top: auto;
+}
+
+.er {
+    width: 16vw;
+    margin-left: 8px;
+}
+
+.lefts {
+    display: flex;
+}
+
+.auto {
+    margin-right: auto;
+}
+
+.adj {
+    width: 72vw;
+}
+
+
+ .alert {
+     display: none;
+ }
+
+}
+
+/********   Landscape   *********/
+
+@media screen and (orientation: landscape) {
+
+.nav {
+    height: 32vh;
+
+}
+
+.footer {
+    height: 16vh;
+}
+
+}

@@ -1,0 +1,155 @@
+
+
+.sana
+{
+	font-size:24px;
+	color:pink;
+}
+
+.sanq
+{
+	font-size:24px;
+	color:#fff;
+}
+
+.santext
+{
+	font-size: 20px;
+    color: #92d0e0;
+    margin-bottom: 35px;
+}
+
+.saninput
+{
+	    background-color: #fff0;
+    border-top: none !important;
+    border-left: none !important;
+    border-right: none !important;
+    background-image: none;
+    border: 1px solid #ccc;
+	    height: 65px;
+}
+
+.saninput:focus
+{
+outline: none;
+box-shadow:none;
+
+}
+.box {
+    background-color: transparent;
+	font-family: 'Sniglet', cursive;
+
+    padding: 10px 25px;
+}	
+label.error{
+	color: #FA3C3C;
+	font-weight: normal;
+	    font-size: 12px;
+}
+input.error{
+	border: 1px solid #FA3C3C;
+}
+
+
+   
+.btn-hot {
+color: #fff;
+background-color: #009688;
+border-bottom: 2px solid #083833;
+}
+
+.btn-hot:hover, .btn-sky.active:focus, .btn-hot:focus, .open>.dropdown-toggle.btn-hot {
+color: #fff;
+background-color: #4CAF50;
+border-bottom: 2px solid #2C802F;
+outline: none;}
+
+
+.btn-hot:active, .btn-hot.active {
+color: #fff;
+background-color: #4CAF50;
+border-bottom: 2px solid #2C802F;
+margin-top: 2px;
+}
+
+.btn-sunny {
+color: #fff;
+background-color: #f4ad49;
+border-bottom:2px solid #c38a3a;
+}
+
+.btn-sunny:hover, .btn-sky.active:focus, .btn-sunny:focus, .open>.dropdown-toggle.btn-sunny {
+color: #fff;
+background-color: #f5b75f;
+border-bottom:2px solid #c4924c;
+outline: none;
+}
+
+
+.btn-sunny:active, .btn-sunny.active {
+color: #fff;
+background-color: #d69840;
+border-top:2px solid #ab7a33;
+margin-top: 2px;
+}
+
+.btn-fresh {
+color: #fff;
+background-color: #51bf87;
+border-bottom:2px solid #41996c;
+}
+
+.btn-fresh:hover, .btn-sky.active:focus, .btn-fresh:focus, .open>.dropdown-toggle.btn-fresh {
+color: #fff;
+background-color: #66c796;
+border-bottom:2px solid #529f78;
+outline: none;
+}
+
+
+.btn-fresh:active, .btn-fresh.active {
+color: #fff;
+background-color: #47a877;
+border-top:2px solid #39865f;
+outline: none;
+outline-offset: none;
+margin-top: 2px;
+}
+
+.btn-sky {
+color: #fff;
+background-color: #2c68a4;
+    border-bottom: 2px solid #1a4a7b;
+	    box-shadow: none;
+}
+
+.btn-sky:hover,.btn-sky.active:focus, .btn-sky:focus, .open>.dropdown-toggle.btn-sky {
+color: #fff;
+background-color: #d43529;
+    border-bottom: 2px solid #a71f23;
+outline: none;
+}
+
+.btn-sky:active, .btn-sky.active {
+color: #fff;
+background-color: #0a97b9;
+border-top:2px solid #087994;
+outline-offset: none;
+margin-top: 2px;
+}
+
+
+.lbl
+{
+	text-align:left !important;
+}
+
+.progress-bar-success {
+    background-color: #2c6aa7;
+}
+
+.progress {
+    background-color: #2c6aa7 !important;
+	margin-bottom:40px;
+}
